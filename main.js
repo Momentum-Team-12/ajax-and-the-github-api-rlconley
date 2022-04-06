@@ -17,7 +17,8 @@ fetch('https://api.github.com/users/rlconley', {
         profileDiv.appendChild(nameDiv)
     })
 
-
+// url to get all my repos 
+// https://api.github.com/users/rlconley/repos
 
 
 
